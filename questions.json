@@ -1,0 +1,53 @@
+{
+    "questions": {
+      "EI": [
+        {"question": "你是否在大型聚会上感到精力充沛？", "dimension": "EI"},
+        {"question": "你是否喜欢与很多人打交道？", "dimension": "EI"},
+        {"question": "你是否倾向于直接表达自己的想法？", "dimension": "EI"},
+        {"question": "你是否喜欢在团队中工作？", "dimension": "EI"},
+        {"question": "你是否在社交场合中感到放松？", "dimension": "EI"},
+        {"question": "你是否更喜欢主动参与各种活动？", "dimension": "EI"},
+        {"question": "你是否喜欢与陌生人聊天？", "dimension": "EI"},
+        {"question": "你是否更喜欢大声表达自己的观点？", "dimension": "EI"},
+        {"question": "你是否喜欢成为关注的焦点？", "dimension": "EI"},
+        {"question": "你是否感到长时间独处会让你疲倦？", "dimension": "EI"}
+      ],
+      "SN": [
+        {"question": "你是否更倾向于关注现实中的细节？", "dimension": "SN"},
+        {"question": "你是否更喜欢具体的事实而非抽象的理论？", "dimension": "SN"},
+        {"question": "你是否倾向于按照已有经验做事？", "dimension": "SN"},
+        {"question": "你是否更喜欢确定的答案而非开放式的问题？", "dimension": "SN"},
+        {"question": "你是否更注重当前的实际情况？", "dimension": "SN"},
+        {"question": "你是否更倾向于依靠自己的感官体验来理解世界？", "dimension": "SN"},
+        {"question": "你是否更喜欢操作性、具体性的任务？", "dimension": "SN"},
+        {"question": "你是否更相信眼见为实？", "dimension": "SN"},
+        {"question": "你是否觉得预测未来是没有意义的？", "dimension": "SN"},
+        {"question": "你是否更喜欢按部就班地完成任务？", "dimension": "SN"}
+      ],
+      "TF": [
+        {"question": "你是否更倾向于根据逻辑和事实做决定？", "dimension": "TF"},
+        {"question": "你是否更注重客观分析而非个人感受？", "dimension": "TF"},
+        {"question": "你是否更倾向于评估事情的好坏而不是对错？", "dimension": "TF"},
+        {"question": "你是否更喜欢公平而不是照顾他人的情绪？", "dimension": "TF"},
+        {"question": "你是否更倾向于依靠逻辑推理来解决问题？", "dimension": "TF"},
+        {"question": "你是否认为合理性比人情味更重要？", "dimension": "TF"},
+        {"question": "你是否更倾向于直截了当地表达自己的意见？", "dimension": "TF"},
+        {"question": "你是否更喜欢在做决定时避免感情用事？", "dimension": "TF"},
+        {"question": "你是否更重视事实和证据而非个人信仰？", "dimension": "TF"},
+        {"question": "你是否认为逻辑错误比情感误导更严重？", "dimension": "TF"}
+      ],
+      "JP": [
+        {"question": "你是否更倾向于计划和组织一切？", "dimension": "JP"},
+        {"question": "你是否更喜欢按计划行事而非随机应变？", "dimension": "JP"},
+        {"question": "你是否觉得完成任务比享受过程更重要？", "dimension": "JP"},
+        {"question": "你是否更倾向于做出明确的决定？", "dimension": "JP"},
+        {"question": "你是否更喜欢有条不紊地安排工作？", "dimension": "JP"},
+        {"question": "你是否更倾向于按时完成任务？", "dimension": "JP"},
+        {"question": "你是否觉得未完成的任务让你感到不安？", "dimension": "JP"},
+        {"question": "你是否更喜欢有明确的截止日期？", "dimension": "JP"},
+        {"question": "你是否更倾向于控制环境而不是适应环境？", "dimension": "JP"},
+        {"question": "你是否更喜欢遵守时间表而非随意调整？", "dimension": "JP"}
+      ]
+    }
+  }
+  
